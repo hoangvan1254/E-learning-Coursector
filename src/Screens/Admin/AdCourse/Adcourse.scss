@@ -1,0 +1,41 @@
+section {
+  display: block;
+}
+footer {
+  display: block;
+}
+aside {
+  display: block;
+}
+nav {
+  display: block;
+}
+main {
+  display: block;
+}
+article {
+  display: block;
+}
+figure {
+  display: block;
+}
+.logo {
+  width: 120px;
+  height: 31px;
+  margin: -4px 0px 16px 0;
+  float: left;
+}
+.ui{
+    padding: 0;
+    min-height: 1000px;
+}
+.content {
+  margin: 24px 16px;
+  padding: 24px;
+  background-color: #fff;
+  min-height: 280px;
+}
+.signout{
+    margin-left: 50px;
+    margin-top: 20px;
+}

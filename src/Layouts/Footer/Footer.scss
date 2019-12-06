@@ -1,0 +1,19 @@
+.bg-black {
+    background-color: black;
+    color: white;
+  }
+  #footer-menu {
+    list-style: none;
+    padding-left: 2px;
+    li {
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+  .green-bar {
+    background: #007b5e;
+    height: 5px;
+    width: 100%;
+  }
+  
