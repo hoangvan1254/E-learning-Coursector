@@ -32,11 +32,9 @@ function App() {
           </Switch>
         </Router>
       </Fragment> */}
-      <Router>
         <Switch>
           <AdminTemplate exact path='/AdCourse' component={AdminCourse} />
         </Switch>
-      </Router>
 
     </BrowserRouter>
 
